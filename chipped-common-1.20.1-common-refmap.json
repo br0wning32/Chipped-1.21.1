@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "earth/terrarium/chipped/mixins/BlockBehaviourMixin": {
+      "getDrops": "Lnet/minecraft/class_4970;method_9560(Lnet/minecraft/class_2680;Lnet/minecraft/class_8567$class_8568;)Ljava/util/List;"
+    },
+    "earth/terrarium/chipped/mixins/NetherWartBlockMixin": {
+      "mayPlaceOn": "Lnet/minecraft/class_2421;method_9695(Lnet/minecraft/class_2680;Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;)Z"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "earth/terrarium/chipped/mixins/BlockBehaviourMixin": {
+        "getDrops": "Lnet/minecraft/class_4970;method_9560(Lnet/minecraft/class_2680;Lnet/minecraft/class_8567$class_8568;)Ljava/util/List;"
+      },
+      "earth/terrarium/chipped/mixins/NetherWartBlockMixin": {
+        "mayPlaceOn": "Lnet/minecraft/class_2421;method_9695(Lnet/minecraft/class_2680;Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;)Z"
+      }
+    }
+  }
+}
